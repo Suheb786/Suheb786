@@ -12,10 +12,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/xmart_suheb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xmart_suheb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/er-suheb-3b9824214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/er-suheb-3b9824214/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/xmartsuheb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/xmartsuheb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ersuheb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ersuheb" height="30" width="40" /></a>
+<a href="https://fb.com/xmartsuheb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xmartsuheb" height="30" width="40" /></a>
 <a href="https://instagram.com/xmart_suheb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xmart_suheb" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucokrxcc-b1r_-e4n7fdejaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucokrxcc-b1r_-e4n7fdejaa" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/VJYXVkSN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/VJYXVkSN" height="30" width="40" /></a>
 </p>
 
