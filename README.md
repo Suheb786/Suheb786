@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking to collaborate on [Softkru.tk](https://softkru.tk/)
 
-- 📫 How to reach me **er.suheb@protonmail.com**
+- 📫 How to reach me **er.suheb@softkru.com**
 
 - ⚡ Fun fact **I Love to play Online Games**
 
