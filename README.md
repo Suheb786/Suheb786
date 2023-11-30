@@ -1,13 +1,7 @@
 <h1 align="center">Asslamwalaikum 😇, I'm Suheb 😎</h1>
 <h3 align="center">An ardent front-end Developer | Teacher endeavoring to Figure-Out Programming designations !!</h3>
 
-- 🌱 I’m currently learning **Flutter & Dart**
-
-- 🤝 I’m looking to collaborate on [Softkru.tk](https://softkru.tk/)
-
-- 📫 How to reach me **er.suheb@softkru.com**
-
-- ⚡ Fun fact **I Love to play Online Games**
+- 🌱 I’m currently on a **Client Project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
